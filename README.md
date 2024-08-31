@@ -35,3 +35,4 @@ plt.colorbar()
 plt.title('Conjunto de Mandelbrot')
 plt.show()
 ```
+**Note:** This code only works if you have installed the numpy and matplotlib libraries.  
